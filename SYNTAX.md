@@ -11,6 +11,7 @@
 ## Heading 2  
 ### Heading 3  
 #### Heading 4  
+
 ---
 # TEXT FORMATTING
 **Syntax :**  
@@ -25,6 +26,7 @@
 *Italic* or _Italic_  
 ~~Strikethrough~~  
 **_Bold and Italic_**
+
 ---
 # REFERENCE
 [1](https://daringfireball.net/projects/markdown/syntax) daringfireball.net  
