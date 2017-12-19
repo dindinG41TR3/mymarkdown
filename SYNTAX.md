@@ -17,11 +17,11 @@
 ---
 **Syntax :**  
 ```
-**Bold** or __Bold__
-*Italic* or _Italic_
-~~Strikethrough~~     
+**Bold** or __Bold__  
+*Italic* or _Italic_  
+~~Strikethrough~~       
 ```
 **Output :**    
-**Bold** or __Bold__
-*Italic* or _Italic_ 
+**Bold** or __Bold__  
+*Italic* or _Italic_  
 ~~Strikethrough~~  
