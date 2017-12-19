@@ -16,28 +16,16 @@
 # TEXT FORMATTING
 **Syntax :**  
 ```
-**Bold** or __Bold__  
 *Italic* or _Italic_  
+**Bold** or __Bold__  
+***Bold and Italic*** or **_Bold and Italic_** or ___Bold and Italic___  
 ~~Strikethrough~~  
-__underline__   
-**_Bold and Italic_** 
-__*underline italics*__  
-__**underline bold**__  
-***bold italics***  
-__***underline bold italics***__  
-__underline__  
 ```
 **Output :**    
-**Bold** or __Bold__  
 *Italic* or _Italic_  
-~~Strikethrough~~  
-__underline__   
-**_Bold and Italic_** 
-__*underline italics*__  
-__**underline bold**__  
-***bold italics***  
-__***underline bold italics***__  
-__underline__  
+**Bold** or __Bold__  
+***Bold and Italic*** or **_Bold and Italic_** or ___Bold and Italic___  
+~~Strikethrough~~    
 
 ---
 # REFERENCE
