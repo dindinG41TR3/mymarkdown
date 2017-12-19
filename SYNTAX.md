@@ -19,19 +19,25 @@
 **Bold** or __Bold__  
 *Italic* or _Italic_  
 ~~Strikethrough~~  
+__underline__   
+**_Bold and Italic_** 
+__*underline italics*__  
+__**underline bold**__  
+***bold italics***  
+__***underline bold italics***__  
 __underline__  
-**_Bold and Italic_**
-Underline italics 	__*underline italics*__
-Underline bold 	__**underline bold**__
-Bold Italics 	***bold italics*** 	underline bold italics 	__***underline bold italics***__
-Underline 	__underline__ 	 Strikethrough 	 ~~Strikethrough~~
 ```
 **Output :**    
 **Bold** or __Bold__  
 *Italic* or _Italic_  
 ~~Strikethrough~~  
+__underline__   
+**_Bold and Italic_** 
+__*underline italics*__  
+__**underline bold**__  
+***bold italics***  
+__***underline bold italics***__  
 __underline__  
-**_Bold and Italic_**
 
 ---
 # REFERENCE
