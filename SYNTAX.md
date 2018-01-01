@@ -58,12 +58,12 @@ Here A3       | Here B3       | Here C3
 ```
 
 **Output :**  
-
 Title A       | Title B       | Title C  
 ------------- |:-------------:| -------: 
 Here A1       | Here B1       | Here C1  
 Here A2       | Here B2       | Here C2  
 Here A3       | Here B3       | Here C3 
+
 ---
 # REFERENCE 
 * [daringfireball.net](https://daringfireball.net/projects/markdown/syntax)
