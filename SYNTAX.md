@@ -31,7 +31,7 @@
 ---
 # LINK
 **Syntax :**  
-```
+```markdown
 [dindinW101](https://github.com/dindinW101)
 ```
 **Output :**  
@@ -46,6 +46,13 @@
 **Output :**  
 ![Logo](https://raw.githubusercontent.com/dindinW101/mymarkdown/master/assets/logo.png)
 
+---
+# TABLES
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 ---
 # REFERENCE 
 * [daringfireball.net](https://daringfireball.net/projects/markdown/syntax)
