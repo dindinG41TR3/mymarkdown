@@ -42,7 +42,7 @@
 ```
 ![Logo](https://raw.githubusercontent.com/dindinW101/mymarkdown/master/assets/logo.png)
 ```
-**Output :** 
+**Output :**  
 ![Logo](https://raw.githubusercontent.com/dindinW101/mymarkdown/master/assets/logo.png)
 
 ---
