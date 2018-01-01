@@ -75,6 +75,39 @@
 | Here A3       | Here B3       | Here C3  |
 
 ---
+# LIST
+**Numbering**
+**Syntax :**  
+
+```markdown
+ 1. Apple
+ 2. Mango
+ 3. Melon
+ 4. Banana
+ 
+ or 
+ 
+ 1. Apple
+ 1. Mango
+ 1. Melon
+ 1. Banana
+ 
+```
+**Output :**
+
+ 1. Apple
+ 2. Mango
+ 3. Melon
+ 4. Banana
+ 
+ or 
+ 
+ 1. Apple
+ 1. Mango
+ 1. Melon
+ 1. Banana
+ 
+---
 # REFERENCE 
 * [daringfireball.net](https://daringfireball.net/projects/markdown/syntax)
 * [help.github.com](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
