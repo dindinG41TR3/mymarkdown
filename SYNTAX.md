@@ -50,23 +50,19 @@
 # TABLES
 **Syntax :**  
 ```markdown
-| Title A | Title C | Title D |
-| ------- |:-------:| -------:|
-| Here A  | Here B  | Here C  |
-| Here D  | Here E  | Here F  |
+| Title A       | Title B       | Title C  |
+| ------------- |:-------------:| -------: |
+| Here A1       | Here B1       | Here C1  |
+| Here A2       | Here B2       | Here C2  |
+| Here A3       | Here B3       | Here C3  |
 ```
 
 **Output :**  
-| Title A | Title C | Title D |
-| ------- |:-------:| -------:|
-| Here A  | Here B  | Here C  |
-| Here D  | Here E  | Here F  |
-
-| Title A        | Title B           | Title C  |
-| ------------- |:-------------:| -----:|
-| Here A1      | Here B1 | Here C1 |
-| Here A2      | Here B2      |   Here C2 |
-| Here A3 | Here B3      |    Here C3 |
+| Title A       | Title B       | Title C  |
+| ------------- |:-------------:| -------: |
+| Here A1       | Here B1       | Here C1  |
+| Here A2       | Here B2       | Here C2  |
+| Here A3       | Here B3       | Here C3  |
 
 ---
 # REFERENCE 
