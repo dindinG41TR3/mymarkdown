@@ -1,6 +1,6 @@
 # HEADING 
 **Syntax :**  
-```
+```markdown
 # Heading 1  
 ## Heading 2  
 ### Heading 3  
@@ -15,7 +15,7 @@
 ---
 # TEXT FORMATTING
 **Syntax :**  
-```
+```markdown
 *Italic* or _Italic_  
 **Bold** or __Bold__  
 ***Bold and Italic*** or **_Bold and Italic_** or ___Bold and Italic___  
@@ -40,7 +40,7 @@
 ---
 # IMAGES
 **Syntax :**  
-```
+```markdown
 ![Logo](https://raw.githubusercontent.com/dindinW101/mymarkdown/master/assets/logo.png)
 ```
 **Output :**  
