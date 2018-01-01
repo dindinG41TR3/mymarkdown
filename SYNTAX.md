@@ -50,17 +50,23 @@
 # TABLES
 **Syntax :**  
 ```markdown
-| Title | Title | Title |
-| ----- |:-----:| -----:|
-| Here A | Here B | Here C |
-| Here D | Here E | Here F |
+| Title A | Title C | Title D |
+| ------- |:-------:| -------:|
+| Here A  | Here B  | Here C  |
+| Here D  | Here E  | Here F  |
 ```
 
 **Output :**  
-| Title | Title | Title |
-| ----- |:-----:| -----:|
-| Here A | Here B | Here C |
-| Here D | Here E | Here F |
+| Title A | Title C | Title D |
+| ------- |:-------:| -------:|
+| Here A  | Here B  | Here C  |
+| Here D  | Here E  | Here F  |
+
+| Title A        | Title B           | Title C  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ---
 # REFERENCE 
