@@ -48,11 +48,20 @@
 
 ---
 # TABLES
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+**Syntax :**  
+```markdown
+| Title | Title | Title |
+| ----- |:-----:| -----:|
+| Here A | Here B | Here C |
+| Here D | Here E | Here F |
+```
+
+**Output :**  
+| Title | Title | Title |
+| ----- |:-----:| -----:|
+| Here A | Here B | Here C |
+| Here D | Here E | Here F |
+
 ---
 # REFERENCE 
 * [daringfireball.net](https://daringfireball.net/projects/markdown/syntax)
