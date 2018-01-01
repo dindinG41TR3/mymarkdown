@@ -76,7 +76,7 @@
 
 ---
 # LIST
-**Numbering**
+**Numbered**  
 **Syntax :**  
 
 ```markdown
@@ -106,7 +106,52 @@
  1. Mango
  1. Melon
  1. Banana
+
+**Bulleted**  
+**Syntax :**  
+
+```markdown
+ * Apple
+ * Mango
+ * Melon
+ * Banana
  
+ and
+ 
+ - Apple
+ - Mango
+ - Melon
+ - Banana
+ 
+ or 
+ 
+ + Apple
+ + Mango
+ + Melon
+ + Banana
+```
+
+**Output :**
+
+ * Apple
+ * Mango
+ * Melon
+ * Banana
+
+ and
+ 
+ - Apple
+ - Mango
+ - Melon
+ - Banana
+ 
+ or 
+ 
+ + Apple
+ + Mango
+ + Melon
+ + Banana
+
 ---
 # REFERENCE 
 * [daringfireball.net](https://daringfireball.net/projects/markdown/syntax)
