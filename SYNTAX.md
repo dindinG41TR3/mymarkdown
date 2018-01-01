@@ -20,13 +20,14 @@
 **Bold** or __Bold__  
 ***Bold and Italic*** or **_Bold and Italic_** or ___Bold and Italic___  
 ~~Strikethrough~~  
+> Quote
 ```
 **Output :**    
 *Italic* or _Italic_  
 **Bold** or __Bold__  
 ***Bold and Italic*** or **_Bold and Italic_** or ___Bold and Italic___  
 ~~Strikethrough~~    
-
+> Quote
 ---
 # LINK
 **Syntax :**  
