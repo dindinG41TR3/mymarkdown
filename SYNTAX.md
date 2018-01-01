@@ -64,9 +64,9 @@
 
 | Title A        | Title B           | Title C  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Here A1      | Here B1 | Here C1 |
+| Here A2      | Here B2      |   Here C2 |
+| Here A3 | Here B3      |    Here C3 |
 
 ---
 # REFERENCE 
