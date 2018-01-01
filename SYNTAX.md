@@ -47,7 +47,7 @@
 ![Logo](https://raw.githubusercontent.com/dindinW101/mymarkdown/master/assets/logo.png)
 
 ---
-# REFERENCE
-[1](https://daringfireball.net/projects/markdown/syntax) daringfireball.net  
-[2](https://help.github.com/articles/basic-writing-and-formatting-syntax/) help.github.com  
-[3](http://commonmark.org/help/) commonmark.org  
+**REFERENCE**
+* [daringfireball.net](https://daringfireball.net/projects/markdown/syntax)
+* [help.github.com](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+* [commonmark.org](http://commonmark.org/help/)
