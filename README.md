@@ -1,5 +1,7 @@
 # mymarkdown
-Catatan belajar Bahasa Markup Markdown.  
+Sebuah Catatan belajar Bahasa Markup Markdown.
 
-**Licensed**  
-CC BY-SA 4.0
+![GitHub issues](https://img.shields.io/github/issues/dindinG41TR3/mymarkdown.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/dindinG41TR3/mymarkdown.svg)
+![GitHub forks](https://img.shields.io/github/forks/dindinG41TR3/mymarkdown.svg?style=social)  
+Made with <span style="color: #e25555;">&#9829;</span> in Indonesia ![flag](http://www.flags-and-anthems.com/images/flags/i/flag-indonesia-wehende-flagge-12x18.gif)
